@@ -1,8 +1,8 @@
 {
   "version": "2025-12",
   "displayName": {
-    "en": "Europe",
-    "hu": "Európa"
+    "en": "Europe – 2025.12",
+    "hu": "Európa – 2025.12"
   },
   "countries": [
     {
@@ -15,32 +15,6 @@
           "name": "Austria",
           "fileName": "austria-2025-12.map",
           "sizeMb": 509
-        }
-      ]
-    },
-    {
-      "name": {
-        "en": "Hungary",
-        "hu": "Magyarország"
-      },
-      "maps": [
-        {
-          "name": "Hungary",
-          "fileName": "hungary-2025-12.map",
-          "sizeMb": 231
-        }
-      ]
-    },
-    {
-      "name": {
-        "en": "Slovakia",
-        "hu": "Szlovákia"
-      },
-      "maps": [
-        {
-          "name": "Slovakia",
-          "fileName": "slovakia-2025-12.map",
-          "sizeMb": 205
         }
       ]
     },
@@ -64,6 +38,45 @@
           "name": "Nordrhein-Westfalen",
           "fileName": "nordrhein-westfalen-2025-12.map",
           "sizeMb": 512
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Hungary",
+        "hu": "Magyarország"
+      },
+      "maps": [
+        {
+          "name": "Hungary",
+          "fileName": "hungary-2025-12.map",
+          "sizeMb": 232
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Romania",
+        "hu": "Románia"
+      },
+      "maps": [
+        {
+          "name": "Romania",
+          "fileName": "romania-2025-12.map",
+          "sizeMb": 255
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Slovakia",
+        "hu": "Szlovákia"
+      },
+      "maps": [
+        {
+          "name": "Slovakia",
+          "fileName": "slovakia-2025-12.map",
+          "sizeMb": 205
         }
       ]
     }
