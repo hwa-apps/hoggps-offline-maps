@@ -49,32 +49,6 @@
         },
         {
           "name": {
-            "en": "Czech Republic",
-            "hu": "Csehország"
-          },
-          "maps": [
-            {
-              "name": "Czech Republic",
-              "fileName": "czech-republic-2025-12.map",
-              "sizeMb": 280
-            }
-          ]
-        },
-        {
-          "name": {
-            "en": "Poland",
-            "hu": "Lengyelország"
-          },
-          "maps": [
-            {
-              "name": "Poland",
-              "fileName": "poland-2025-12.map",
-              "sizeMb": 650
-            }
-          ]
-        },
-        {
-          "name": {
             "en": "Romania",
             "hu": "Románia"
           },
@@ -83,32 +57,6 @@
               "name": "Romania",
               "fileName": "romania-2025-12.map",
               "sizeMb": 420
-            }
-          ]
-        },
-        {
-          "name": {
-            "en": "Slovenia",
-            "hu": "Szlovénia"
-          },
-          "maps": [
-            {
-              "name": "Slovenia",
-              "fileName": "slovenia-2025-12.map",
-              "sizeMb": 120
-            }
-          ]
-        },
-        {
-          "name": {
-            "en": "Croatia",
-            "hu": "Horvátország"
-          },
-          "maps": [
-            {
-              "name": "Croatia",
-              "fileName": "croatia-2025-12.map",
-              "sizeMb": 210
             }
           ]
         },
