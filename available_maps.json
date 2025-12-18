@@ -28,6 +28,7 @@
           },
           "maps": [
             {
+              "name": "Hungary",
               "fileName": "hungary-2025-12.map",
               "sizeMb": 231
             }
@@ -40,8 +41,74 @@
           },
           "maps": [
             {
+              "name": "Slovakia",
               "fileName": "slovakia-2025-12.map",
               "sizeMb": 205
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Czech Republic",
+            "hu": "Csehország"
+          },
+          "maps": [
+            {
+              "name": "Czech Republic",
+              "fileName": "czech-republic-2025-12.map",
+              "sizeMb": 280
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Poland",
+            "hu": "Lengyelország"
+          },
+          "maps": [
+            {
+              "name": "Poland",
+              "fileName": "poland-2025-12.map",
+              "sizeMb": 650
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Romania",
+            "hu": "Románia"
+          },
+          "maps": [
+            {
+              "name": "Romania",
+              "fileName": "romania-2025-12.map",
+              "sizeMb": 420
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Slovenia",
+            "hu": "Szlovénia"
+          },
+          "maps": [
+            {
+              "name": "Slovenia",
+              "fileName": "slovenia-2025-12.map",
+              "sizeMb": 120
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Croatia",
+            "hu": "Horvátország"
+          },
+          "maps": [
+            {
+              "name": "Croatia",
+              "fileName": "croatia-2025-12.map",
+              "sizeMb": 210
             }
           ]
         },
@@ -66,12 +133,89 @@
               "fileName": "nordrhein-westfalen-2025-12.map",
               "sizeMb": 512
             }
-            // ... többi német tartomány ha van
+            // Ha később több német tartomány jön, ide tedd őket
           ]
         }
-        // ... többi ország
+      ]
+    },
+    {
+      "releaseTag": "asia-2025-12",
+      "displayName": {
+        "en": "Asia",
+        "hu": "Ázsia"
+      },
+      "countries": [
+        {
+          "name": {
+            "en": "Turkey",
+            "hu": "Törökország"
+          },
+          "maps": [
+            {
+              "name": "Turkey (European + Asian part)",
+              "fileName": "turkey-2025-12.map",
+              "sizeMb": 820
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Thailand",
+            "hu": "Thaiföld"
+          },
+          "maps": [
+            {
+              "name": "Thailand",
+              "fileName": "thailand-2025-12.map",
+              "sizeMb": 350
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Japan",
+            "hu": "Japán"
+          },
+          "maps": [
+            {
+              "name": "Japan",
+              "fileName": "japan-2025-12.map",
+              "sizeMb": 1100
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "India",
+            "hu": "India"
+          },
+          "maps": [
+            {
+              "name": "Northern India",
+              "fileName": "india-north-2025-12.map",
+              "sizeMb": 450
+            },
+            {
+              "name": "Southern India",
+              "fileName": "india-south-2025-12.map",
+              "sizeMb": 380
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "China",
+            "hu": "Kína"
+          },
+          "maps": [
+            {
+              "name": "China (mainland)",
+              "fileName": "china-2025-12.map",
+              "sizeMb": 2100
+            }
+          ]
+        }
       ]
     }
-    // Később ide jöhet az Asia, stb.
   ]
 }
