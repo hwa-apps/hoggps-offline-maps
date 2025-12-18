@@ -2,7 +2,7 @@
   "version": "2025-15",
   "regions": [
     {
-      "releaseTag": "europe-2025-12",
+      "releaseTag": "europe",
       "displayName": {
         "en": "Europe",
         "hu": "Európa"
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "releaseTag": "north-america-2025-12",
+      "releaseTag": "north-america",
       "displayName": {
         "en": "North America",
         "hu": "Észak-Amerika"
@@ -230,9 +230,11 @@
               "fileName": "hawaii-2025-12.map",
               "sizeMb": 280
             }
+            // Később ide jöhetnek pl. california-2025-12.map, alaska-2025-12.map stb.
           ]
         }
       ]
     }
+    // Később ide jöhet pl. { "releaseTag": "asia", ... }
   ]
 }
