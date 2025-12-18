@@ -1,7 +1,8 @@
 {
-  "version": "2025-15",  // opcionális, pl. frissítés ellenőrzéshez később
+  "version": "2025-15",
   "regions": [
     {
+      "releaseTag": "europe-2025-12",
       "displayName": {
         "en": "Europe",
         "hu": "Európa"
@@ -14,7 +15,7 @@
           },
           "maps": [
             {
-              "name": "Austria",  // opcionális, ha eltér a fileName-től
+              "name": "Austria",
               "fileName": "austria-2025-12.map",
               "sizeMb": 509
             }
@@ -34,6 +35,18 @@
         },
         {
           "name": {
+            "en": "Slovakia",
+            "hu": "Szlovákia"
+          },
+          "maps": [
+            {
+              "fileName": "slovakia-2025-12.map",
+              "sizeMb": 205
+            }
+          ]
+        },
+        {
+          "name": {
             "en": "Germany",
             "hu": "Németország"
           },
@@ -48,21 +61,17 @@
               "fileName": "bayern-2025-12.map",
               "sizeMb": 428
             },
-            // ...
+            {
+              "name": "Nordrhein-Westfalen",
+              "fileName": "nordrhein-westfalen-2025-12.map",
+              "sizeMb": 512
+            }
+            // ... többi német tartomány ha van
           ]
         }
         // ... többi ország
       ]
-    },
-    {
-      "displayName": {
-        "en": "Asia",
-        "hu": "Ázsia"
-      },
-      "countries": [
-        // ... ázsiai országok hasonlóan
-      ]
     }
-    // ... később több region
+    // Később ide jöhet az Asia, stb.
   ]
 }
