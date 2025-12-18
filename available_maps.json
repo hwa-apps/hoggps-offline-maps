@@ -1,51 +1,182 @@
 {
-  "name": {
-    "en": "Hungary",
-    "hu": "Magyarország"
-  },
-  "maps": [
+  "version": "2025-15",
+  "regions": [
     {
-      "fileName": "hungary-2025-12.map",
-      "sizeMb": 231
-    }
-  ]
-},
-{
-  "name": {
-    "en": "Austria",
-    "hu": "Ausztria"
-  },
-  "maps": [
+      "releaseTag": "europe",
+      "displayName": {
+        "en": "Europe",
+        "hu": "Európa"
+      },
+      "countries": [
+        {
+          "name": {
+            "en": "Austria",
+            "hu": "Ausztria"
+          },
+          "maps": [
+            {
+              "fileName": "austria-2025-12.map",
+              "sizeMb": 509
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Hungary",
+            "hu": "Magyarország"
+          },
+          "maps": [
+            {
+              "fileName": "hungary-2025-12.map",
+              "sizeMb": 231
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Slovakia",
+            "hu": "Szlovákia"
+          },
+          "maps": [
+            {
+              "fileName": "slovakia-2025-12.map",
+              "sizeMb": 205
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Romania",
+            "hu": "Románia"
+          },
+          "maps": [
+            {
+              "fileName": "romania-2025-12.map",
+              "sizeMb": 420
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Spain",
+            "hu": "Spanyolország"
+          },
+          "maps": [
+            {
+              "name": "Andalucía",
+              "fileName": "andalucia-2025-12.map",
+              "sizeMb": 450
+            },
+            {
+              "name": "Aragón",
+              "fileName": "aragon-2025-12.map",
+              "sizeMb": 220
+            },
+            {
+              "name": "Asturias",
+              "fileName": "asturias-2025-12.map",
+              "sizeMb": 150
+            },
+            {
+              "name": "Cantabria",
+              "fileName": "cantabria-2025-12.map",
+              "sizeMb": 120
+            },
+            {
+              "name": "Castilla-La Mancha",
+              "fileName": "castilla-la-mancha-2025-12.map",
+              "sizeMb": 280
+            },
+            {
+              "name": "Castilla y León",
+              "fileName": "castilla-y-leon-2025-12.map",
+              "sizeMb": 350
+            },
+            {
+              "name": "Cataluña",
+              "fileName": "cataluna-2025-12.map",
+              "sizeMb": 380
+            },
+            {
+              "name": "Ceuta",
+              "fileName": "ceuta-2025-12.map",
+              "sizeMb": 30
+            },
+            {
+              "name": "Extremadura",
+              "fileName": "extremadura-2025-12.map",
+              "sizeMb": 180
+            },
+            {
+              "name": "Galicia",
+              "fileName": "galicia-2025-12.map",
+              "sizeMb": 250
+            },
+            {
+              "name": "Islas Baleares",
+              "fileName": "islas-baleares-2025-12.map",
+              "sizeMb": 140
+            },
+            {
+              "name": "La Rioja",
+              "fileName": "la-rioja-2025-12.map",
+              "sizeMb": 80
+            },
+            {
+              "name": "Madrid",
+              "fileName": "madrid-2025-12.map",
+              "sizeMb": 220
+            },
+            {
+              "name": "Melilla",
+              "fileName": "melilla-2025-12.map",
+              "sizeMb": 25
+            },
+            {
+              "name": "Murcia",
+              "fileName": "murcia-2025-12.map",
+              "sizeMb": 160
+            },
+            {
+              "name": "Navarra",
+              "fileName": "navarra-2025-12.map",
+              "sizeMb": 130
+            },
+            {
+              "name": "País Vasco",
+              "fileName": "pais-vasco-2025-12.map",
+              "sizeMb": 190
+            },
+            {
+              "name": "Valencia",
+              "fileName": "valencia-2025-12.map",
+              "sizeMb": 320
+            }
+          ]
+        }
+      ]
+    },
     {
-      "fileName": "austria-2025-12.map",
-      "sizeMb": 509
+      "releaseTag": "north-america",
+      "displayName": {
+        "en": "North America",
+        "hu": "Észak-Amerika"
+      },
+      "countries": [
+        {
+          "name": {
+            "en": "United States",
+            "hu": "Egyesült Államok"
+          },
+          "maps": [
+            {
+              "name": "Hawaii",
+              "fileName": "hawaii-2025-12.map",
+              "sizeMb": 26
+            }
+          ]
+        }
+      ]
     }
-  ]
-},
-{
-  "name": {
-    "en": "United States",
-    "hu": "Egyesült Államok"
-  },
-  "maps": [
-    {
-      "name": "Hawaii",
-      "fileName": "hawaii-2025-12.map",
-      "sizeMb": 26
-    }
-  ]
-},
-{
-  "name": {
-    "en": "Spain",
-    "hu": "Spanyolország"
-  },
-  "maps": [
-    {
-      "name": "Andalucía",
-      "fileName": "andalucia-2025-12.map",
-      "sizeMb": 450
-    }
-    // ...
   ]
 }
