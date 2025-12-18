@@ -1,71 +1,68 @@
 {
-  "version": "2025-15",
-  "displayName": {
-    "en": "Europe",
-    "hu": "Európa"
-  },
-  "countries": [
+  "version": "2025-15",  // opcionális, pl. frissítés ellenőrzéshez később
+  "regions": [
     {
-      "name": {
-        "en": "Austria",
-        "hu": "Ausztria"
+      "displayName": {
+        "en": "Europe",
+        "hu": "Európa"
       },
-      "maps": [
+      "countries": [
         {
-          "name": "Austria",
-          "fileName": "austria-2025-12.map",
-          "sizeMb": 509
-        }
-      ]
-    },
-    {
-      "name": {
-        "en": "Hungary",
-        "hu": "Magyarország"
-      },
-      "maps": [
-        {
-          "name": "Hungary",
-          "fileName": "hungary-2025-12.map",
-          "sizeMb": 231
-        }
-      ]
-    },
-    {
-      "name": {
-        "en": "Slovakia",
-        "hu": "Szlovákia"
-      },
-      "maps": [
-        {
-          "name": "Slovakia",
-          "fileName": "slovakia-2025-12.map",
-          "sizeMb": 205
-        }
-      ]
-    },
-    {
-      "name": {
-        "en": "Germany",
-        "hu": "Németország"
-      },
-      "maps": [
-        {
-          "name": "Baden-Württemberg",
-          "fileName": "baden-wuerttemberg-2025-12.map",
-          "sizeMb": 312
+          "name": {
+            "en": "Austria",
+            "hu": "Ausztria"
+          },
+          "maps": [
+            {
+              "name": "Austria",  // opcionális, ha eltér a fileName-től
+              "fileName": "austria-2025-12.map",
+              "sizeMb": 509
+            }
+          ]
         },
         {
-          "name": "Bayern",
-          "fileName": "bayern-2025-12.map",
-          "sizeMb": 428
+          "name": {
+            "en": "Hungary",
+            "hu": "Magyarország"
+          },
+          "maps": [
+            {
+              "fileName": "hungary-2025-12.map",
+              "sizeMb": 231
+            }
+          ]
         },
         {
-          "name": "Nordrhein-Westfalen",
-          "fileName": "nordrhein-westfalen-2025-12.map",
-          "sizeMb": 512
+          "name": {
+            "en": "Germany",
+            "hu": "Németország"
+          },
+          "maps": [
+            {
+              "name": "Baden-Württemberg",
+              "fileName": "baden-wuerttemberg-2025-12.map",
+              "sizeMb": 312
+            },
+            {
+              "name": "Bayern",
+              "fileName": "bayern-2025-12.map",
+              "sizeMb": 428
+            },
+            // ...
+          ]
         }
+        // ... többi ország
+      ]
+    },
+    {
+      "displayName": {
+        "en": "Asia",
+        "hu": "Ázsia"
+      },
+      "countries": [
+        // ... ázsiai országok hasonlóan
       ]
     }
+    // ... később több region
   ]
 }
