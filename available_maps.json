@@ -1,5 +1,5 @@
 {
-  "version": "2025-12-19",
+  "version": "2025-12-20",
   "regions": [
     {
       "releaseTag": "europe",
@@ -55,7 +55,7 @@
           "maps": [
             {
               "id": "slovakia",
-              "fileName": "slovakia-2025-12.map",
+              "fileName": "slovakia-2026-01.map",
               "sizeMb": 205
             }
           ]
