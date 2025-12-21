@@ -1,5 +1,5 @@
 {
-  "version": "2025-12-18",
+  "version": "2025-12-17",
   "regions": [
     {
       "releaseTag": "europe",
@@ -104,7 +104,7 @@
             {
               "id": "usa-hawaii",
               "name": "Hawaii",
-              "fileName": "hawaii-2026-02.map",
+              "fileName": "hawaii-2025-12.map",
               "sizeMb": 26
             }
           ]
