@@ -41,7 +41,7 @@
           },
           "maps": [
             {
-              "id": "romania"
+              "id": "romania",
               "fileName": "romania-2025-12.map",
               "sizeMb": 420
             }
@@ -49,12 +49,12 @@
         },
         {
           "name": {
-            "id": "slovakia"
             "en": "Slovakia",
             "hu": "Szlovákia"
           },
           "maps": [
             {
+              "id": "slovakia",
               "fileName": "slovakia-2025-12.map",
               "sizeMb": 205
             }
