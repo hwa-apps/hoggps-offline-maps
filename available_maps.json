@@ -1,5 +1,5 @@
 {
-  "version": "2025-12-17",
+  "version": "2025-12-118",
   "regions": [
     {
       "releaseTag": "europe",
@@ -15,6 +15,7 @@
           },
           "maps": [
             {
+              "id": "austria",
               "fileName": "austria-2025-12.map",
               "sizeMb": 509
             }
@@ -27,6 +28,7 @@
           },
           "maps": [
             {
+              "id": "hungary",
               "fileName": "hungary-2025-12.map",
               "sizeMb": 231
             }
@@ -39,6 +41,7 @@
           },
           "maps": [
             {
+              "id": "romania"
               "fileName": "romania-2025-12.map",
               "sizeMb": 420
             }
@@ -46,6 +49,7 @@
         },
         {
           "name": {
+            "id": "slovakia"
             "en": "Slovakia",
             "hu": "Szlovákia"
           },
@@ -62,24 +66,24 @@
             "hu": "Spanyolország"
           },
           "maps": [
-            { "name": "Andalucía", "fileName": "andalucia-2025-12.map", "sizeMb": 123 },
-            { "name": "Aragón", "fileName": "aragon-2025-12.map", "sizeMb": 71 },
-            { "name": "Asturias", "fileName": "asturias-2025-12.map", "sizeMb": 23 },
-            { "name": "Cantabria", "fileName": "cantabria-2025-12.map", "sizeMb": 22 },
-            { "name": "Castilla-La Mancha", "fileName": "castilla-la-mancha-2025-12.map", "sizeMb": 76 },
-            { "name": "Castilla y León", "fileName": "castilla-y-leon-2025-12.map", "sizeMb": 127 },
-            { "name": "Cataluña", "fileName": "cataluna-2025-12.map", "sizeMb": 178 },
-            { "name": "Ceuta", "fileName": "ceuta-2025-12.map", "sizeMb": 1 },
-            { "name": "Extremadura", "fileName": "extremadura-2025-12.map", "sizeMb": 30 },
-            { "name": "Galicia", "fileName": "galicia-2025-12.map", "sizeMb": 73 },
-            { "name": "Islas Baleares", "fileName": "islas-baleares-2025-12.map", "sizeMb": 33 },
-            { "name": "La Rioja", "fileName": "la-rioja-2025-12.map", "sizeMb": 9 },
-            { "name": "Madrid", "fileName": "madrid-2025-12.map", "sizeMb": 56 },
-            { "name": "Melilla", "fileName": "melilla-2025-12.map", "sizeMb": 1 },
-            { "name": "Murcia", "fileName": "murcia-2025-12.map", "sizeMb": 26 },
-            { "name": "Navarra", "fileName": "navarra-2025-12.map", "sizeMb": 26 },
-            { "name": "País Vasco", "fileName": "pais-vasco-2025-12.map", "sizeMb": 48 },
-            { "name": "Valencia", "fileName": "valencia-2025-12.map", "sizeMb": 98 }
+              { "id": "spain-andalucia", "name": "Andalucía", "fileName": "andalucia-2025-12.map", "sizeMb": 123 },
+              { "id": "spain-aragon", "name": "Aragón", "fileName": "aragon-2025-12.map", "sizeMb": 71 },
+              { "id": "spain-asturias", "name": "Asturias", "fileName": "asturias-2025-12.map", "sizeMb": 23 },
+              { "id": "spain-cantabria", "name": "Cantabria", "fileName": "cantabria-2025-12.map", "sizeMb": 22 },
+              { "id": "spain-castilla-la-mancha", "name": "Castilla-La Mancha", "fileName": "castilla-la-mancha-2025-12.map", "sizeMb": 76 },
+              { "id": "spain-castilla-y-leon", "name": "Castilla y León", "fileName": "castilla-y-leon-2025-12.map", "sizeMb": 127 },
+              { "id": "spain-cataluna", "name": "Cataluña", "fileName": "cataluna-2025-12.map", "sizeMb": 178 },
+              { "id": "spain-ceuta", "name": "Ceuta", "fileName": "ceuta-2025-12.map", "sizeMb": 1 },
+              { "id": "spain-extremadura", "name": "Extremadura", "fileName": "extremadura-2025-12.map", "sizeMb": 30 },
+              { "id": "spain-galicia", "name": "Galicia", "fileName": "galicia-2025-12.map", "sizeMb": 73 },
+              { "id": "spain-islas-baleares", "name": "Islas Baleares", "fileName": "islas-baleares-2025-12.map", "sizeMb": 33 },
+              { "id": "spain-la-rioja", "name": "La Rioja", "fileName": "la-rioja-2025-12.map", "sizeMb": 9 },
+              { "id": "spain-madrid", "name": "Madrid", "fileName": "madrid-2025-12.map", "sizeMb": 56 },
+              { "id": "spain-melilla", "name": "Melilla", "fileName": "melilla-2025-12.map", "sizeMb": 1 },
+              { "id": "spain-murcia", "name": "Murcia", "fileName": "murcia-2025-12.map", "sizeMb": 26 },
+              { "id": "spain-navarra", "name": "Navarra", "fileName": "navarra-2025-12.map", "sizeMb": 26 },
+              { "id": "spain-pais-vasco", "name": "País Vasco", "fileName": "pais-vasco-2025-12.map", "sizeMb": 48 },
+              { "id": "spain-valencia", "name": "Valencia", "fileName": "valencia-2025-12.map", "sizeMb": 98 }
           ]
         }
       ]
@@ -98,6 +102,7 @@
           },
           "maps": [
             {
+              "id": "usa-hawaii",
               "name": "Hawaii",
               "fileName": "hawaii-2025-12.map",
               "sizeMb": 26
