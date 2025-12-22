@@ -1,5 +1,5 @@
 {
-  "version": "2025-12-20",
+  "version": "2025-12-21",
   "regions": [
     {
       "releaseTag": "europe",
@@ -55,7 +55,7 @@
           "maps": [
             {
               "id": "slovakia",
-              "fileName": "slovakia-2026-01.map",
+              "fileName": "slovakia-2025-12.map",
               "sizeMb": 205
             }
           ]
@@ -68,7 +68,7 @@
           "maps": [
               { "id": "spain-andalucia", "name": "Andalucía", "fileName": "andalucia-2025-12.map", "sizeMb": 123 },
               { "id": "spain-aragon", "name": "Aragón", "fileName": "aragon-2025-12.map", "sizeMb": 71 },
-              { "id": "spain-asturias", "name": "Asturias", "fileName": "asturias-2026-01.map", "sizeMb": 23 },
+              { "id": "spain-asturias", "name": "Asturias", "fileName": "asturias-2025-12.map", "sizeMb": 23 },
               { "id": "spain-cantabria", "name": "Cantabria", "fileName": "cantabria-2025-12.map", "sizeMb": 22 },
               { "id": "spain-castilla-la-mancha", "name": "Castilla-La Mancha", "fileName": "castilla-la-mancha-2025-12.map", "sizeMb": 76 },
               { "id": "spain-castilla-y-leon", "name": "Castilla y León", "fileName": "castilla-y-leon-2025-12.map", "sizeMb": 127 },
