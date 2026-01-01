@@ -1,5 +1,5 @@
 {
-  "version": "2025-12-22",
+  "version": "2026-01-01",
   "regions": [
     {
       "releaseTag": "europe",
@@ -34,6 +34,19 @@
             }
           ]
         },
+        {
+          "name": {
+            "en": "Italy",
+            "hu": "Olaszország"
+          },
+          "maps": [
+            { "name": "Centro", "fileName": "centro-2025-12.map", "sizeMb": 277 },
+            { "name": "Isole", "fileName": "isole-2025-12.map", "sizeMb": 165 },
+            { "name": "Nord-Est", "fileName": "nord-est-2025-12.map", "sizeMb": 439 },
+            { "name": "Nord-Ovest", "fileName": "nord-ovest-2025-12.map", "sizeMb": 401 },
+            { "name": "Sud", "fileName": "sud-2025-12.map", "sizeMb": 305 }
+          ]
+        }
         {
           "name": {
             "en": "Romania",
