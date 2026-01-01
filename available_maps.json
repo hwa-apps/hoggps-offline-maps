@@ -23,6 +23,15 @@
         },
         {
           "name": {
+            "en": "Croatia",
+            "hu": "Horvátország"
+          },
+          "maps": [
+            { "fileName": "croatia-2025-12.map" }
+          ]
+        }
+        {
+          "name": {
             "en": "Hungary",
             "hu": "Magyarország"
           },
