@@ -84,6 +84,19 @@
             }
           ]
         },
+                {
+          "name": {
+            "en": "Slovenia",
+            "hu": "Szlovénia"
+          },
+          "maps": [
+            {
+              "id": "slovenia",
+              "fileName": "slovenia-2025-12.map",
+              "sizeMb": 223
+            }
+          ]
+        },
         {
           "name": {
             "en": "Spain",
