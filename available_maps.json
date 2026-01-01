@@ -27,9 +27,11 @@
             "hu": "Horvátország"
           },
           "maps": [
-            { "fileName": "croatia-2025-12.map" }
+            { "id": "croatia",
+            "fileName": "croatia-2025-12.map",
+            "sizeMb": 152}
           ]
-        }
+        },
         {
           "name": {
             "en": "Hungary",
@@ -49,13 +51,13 @@
             "hu": "Olaszország"
           },
           "maps": [
-            { "name": "Centro", "fileName": "centro-2025-12.map", "sizeMb": 277 },
-            { "name": "Isole", "fileName": "isole-2025-12.map", "sizeMb": 165 },
-            { "name": "Nord-Est", "fileName": "nord-est-2025-12.map", "sizeMb": 439 },
-            { "name": "Nord-Ovest", "fileName": "nord-ovest-2025-12.map", "sizeMb": 401 },
-            { "name": "Sud", "fileName": "sud-2025-12.map", "sizeMb": 305 }
+            { "id": "italy-centro", "name": "Centro", "fileName": "centro-2025-12.map", "sizeMb": 277 },
+            { "id": "italy-isole", "name": "Isole", "fileName": "isole-2025-12.map", "sizeMb": 165 },
+            { "id": "italy-nord-est", "name": "Nord-Est", "fileName": "nord-est-2025-12.map", "sizeMb": 439 },
+            { "id": "italy-nord-ovest", "name": "Nord-Ovest", "fileName": "nord-ovest-2025-12.map", "sizeMb": 401 },
+            { "id": "italy-sud", "name": "Sud", "fileName": "sud-2025-12.map", "sizeMb": 305 }
           ]
-        }
+        },
         {
           "name": {
             "en": "Romania",
