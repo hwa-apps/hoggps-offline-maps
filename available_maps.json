@@ -83,7 +83,7 @@
             { "id": "poland-wielkopolskie", "fileName": "wielkopolskie-2025-12.map", "sizeMb": 9999 },
             { "id": "poland-zachodniopomorskie", "fileName": "zachodniopomorskie-2025-12.map", "sizeMb": 9999 }
           ]
-        }
+        },
         {
           "name": {
             "en": "Romania",
@@ -148,7 +148,7 @@
             { "id": "spain-pais-vasco", "name": "País Vasco", "fileName": "pais-vasco-2025-12.map", "sizeMb": 48 },
             { "id": "spain-valencia", "name": "Valencia", "fileName": "valencia-2025-12.map", "sizeMb": 98 }
           ]
-        },
+        }
       ]
     },
     {
