@@ -59,8 +59,7 @@
             { "id": "italy-nord-ovest", "name": "Nord-Ovest", "fileName": "nord-ovest-2025-12.map", "sizeMb": 401 },
             { "id": "italy-sud", "name": "Sud", "fileName": "sud-2025-12.map", "sizeMb": 305 }
           ]
-         },
-               },
+        },
         {
           "name": {
             "en": "Poland",
