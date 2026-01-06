@@ -60,28 +60,29 @@
             { "id": "italy-sud", "name": "Sud", "fileName": "sud-2025-12.map", "sizeMb": 305 }
           ]
          },
-         {
+               },
+        {
           "name": {
             "en": "Poland",
             "hu": "Lengyelország"
           },
           "maps": [
-            { "id": "poland-dolnoslaskie", "fileName": "dolnoslaskie-2025-12.map", "sizeMb": 107 },
-            { "id": "poland-kujawsko-pomorskie", "fileName": "kujawsko-pomorskie-2025-12.map", "sizeMb": 9999 },
-            { "id": "poland-lodzkie", "fileName": "lodzkie-2025-12.map", "sizeMb": 9999 },
-            { "id": "poland-lubelskie", "fileName": "lubelskie-2025-12.map", "sizeMb": 9999 },
-            { "id": "poland-lubuskie", "fileName": "lubuskie-2025-12.map", "sizeMb": 9999 },
-            { "id": "poland-malopolskie", "fileName": "malopolskie-2025-12.map", "sizeMb": 9999 },
-            { "id": "poland-mazowieckie", "fileName": "mazowieckie-2025-12.map", "sizeMb": 9999 },
-            { "id": "poland-opolskie", "fileName": "opolskie-2025-12.map", "sizeMb": 9999 },
-            { "id": "poland-podkarpackie", "fileName": "podkarpackie-2025-12.map", "sizeMb": 9999 },
-            { "id": "poland-podlaskie", "fileName": "podlaskie-2025-12.map", "sizeMb": 9999 },
-            { "id": "poland-pomorskie", "fileName": "pomorskie-2025-12.map", "sizeMb": 9999 },
-            { "id": "poland-slaskie", "fileName": "slaskie-2025-12.map", "sizeMb": 9999 },
-            { "id": "poland-swietokrzyskie", "fileName": "swietokrzyskie-2025-12.map", "sizeMb": 9999 },
-            { "id": "poland-warminsko-mazurskie", "fileName": "warminsko-mazurskie-2025-12.map", "sizeMb": 9999 },
-            { "id": "poland-wielkopolskie", "fileName": "wielkopolskie-2025-12.map", "sizeMb": 9999 },
-            { "id": "poland-zachodniopomorskie", "fileName": "zachodniopomorskie-2025-12.map", "sizeMb": 9999 }
+            { "id": "poland-dolnoslaskie", "name": "Dolnośląskie", "fileName": "dolnoslaskie-2025-12.map", "sizeMb": 107 },
+            { "id": "poland-kujawsko-pomorskie", "name": "Kujawsko-Pomorskie", "fileName": "kujawsko-pomorskie-2025-12.map", "sizeMb": 9999 },
+            { "id": "poland-lodzkie", "name": "Łódzkie", "fileName": "lodzkie-2025-12.map", "sizeMb": 9999 },
+            { "id": "poland-lubelskie", "name": "Lubelskie", "fileName": "lubelskie-2025-12.map", "sizeMb": 9999 },
+            { "id": "poland-lubuskie", "name": "Lubuskie", "fileName": "lubuskie-2025-12.map", "sizeMb": 9999 },
+            { "id": "poland-malopolskie", "name": "Małopolskie", "fileName": "malopolskie-2025-12.map", "sizeMb": 9999 },
+            { "id": "poland-mazowieckie", "name": "Mazowieckie", "fileName": "mazowieckie-2025-12.map", "sizeMb": 9999 },
+            { "id": "poland-opolskie", "name": "Opolskie", "fileName": "opolskie-2025-12.map", "sizeMb": 9999 },
+            { "id": "poland-podkarpackie", "name": "Podkarpackie", "fileName": "podkarpackie-2025-12.map", "sizeMb": 9999 },
+            { "id": "poland-podlaskie", "name": "Podlaskie", "fileName": "podlaskie-2025-12.map", "sizeMb": 9999 },
+            { "id": "poland-pomorskie", "name": "Pomorskie", "fileName": "pomorskie-2025-12.map", "sizeMb": 9999 },
+            { "id": "poland-slaskie", "name": "Śląskie", "fileName": "slaskie-2025-12.map", "sizeMb": 9999 },
+            { "id": "poland-swietokrzyskie", "name": "Świętokrzyskie", "fileName": "swietokrzyskie-2025-12.map", "sizeMb": 9999 },
+            { "id": "poland-warminsko-mazurskie", "name": "Warmińsko-Mazurskie", "fileName": "warminsko-mazurskie-2025-12.map", "sizeMb": 9999 },
+            { "id": "poland-wielkopolskie", "name": "Wielkopolskie", "fileName": "wielkopolskie-2025-12.map", "sizeMb": 9999 },
+            { "id": "poland-zachodniopomorskie", "name": "Zachodniopomorskie", "fileName": "zachodniopomorskie-2025-12.map", "sizeMb": 9999 }
           ]
         },
         {
