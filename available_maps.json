@@ -164,12 +164,7 @@
             "hu": "USA"
           },
           "maps": [
-            {
-              "id": "usa-hawaii",
-              "name": "Hawaii",
-              "fileName": "hawaii-2025-12.map",
-              "sizeMb": 26
-            }
+            { "id": "usa-hawaii", "name": "Hawaii", "fileName": "hawaii-2025-12.map", "sizeMb": 26 }
           ]
         }
       ]
