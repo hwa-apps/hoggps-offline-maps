@@ -1,5 +1,5 @@
 {
-  "version": "2026-01-06",
+  "version": "2026-01-07",
   "regions": [
     {
       "releaseTag": "europe",
@@ -67,21 +67,21 @@
           },
           "maps": [
             { "id": "poland-dolnoslaskie", "name": "Dolnośląskie", "fileName": "dolnoslaskie-2025-12.map", "sizeMb": 107 },
-            { "id": "poland-kujawsko-pomorskie", "name": "Kujawsko-Pomorskie", "fileName": "kujawsko-pomorskie-2025-12.map", "sizeMb": 9999 },
-            { "id": "poland-lodzkie", "name": "Łódzkie", "fileName": "lodzkie-2025-12.map", "sizeMb": 9999 },
-            { "id": "poland-lubelskie", "name": "Lubelskie", "fileName": "lubelskie-2025-12.map", "sizeMb": 9999 },
-            { "id": "poland-lubuskie", "name": "Lubuskie", "fileName": "lubuskie-2025-12.map", "sizeMb": 9999 },
-            { "id": "poland-malopolskie", "name": "Małopolskie", "fileName": "malopolskie-2025-12.map", "sizeMb": 9999 },
-            { "id": "poland-mazowieckie", "name": "Mazowieckie", "fileName": "mazowieckie-2025-12.map", "sizeMb": 9999 },
-            { "id": "poland-opolskie", "name": "Opolskie", "fileName": "opolskie-2025-12.map", "sizeMb": 9999 },
-            { "id": "poland-podkarpackie", "name": "Podkarpackie", "fileName": "podkarpackie-2025-12.map", "sizeMb": 9999 },
-            { "id": "poland-podlaskie", "name": "Podlaskie", "fileName": "podlaskie-2025-12.map", "sizeMb": 9999 },
-            { "id": "poland-pomorskie", "name": "Pomorskie", "fileName": "pomorskie-2025-12.map", "sizeMb": 9999 },
-            { "id": "poland-slaskie", "name": "Śląskie", "fileName": "slaskie-2025-12.map", "sizeMb": 9999 },
-            { "id": "poland-swietokrzyskie", "name": "Świętokrzyskie", "fileName": "swietokrzyskie-2025-12.map", "sizeMb": 9999 },
-            { "id": "poland-warminsko-mazurskie", "name": "Warmińsko-Mazurskie", "fileName": "warminsko-mazurskie-2025-12.map", "sizeMb": 9999 },
-            { "id": "poland-wielkopolskie", "name": "Wielkopolskie", "fileName": "wielkopolskie-2025-12.map", "sizeMb": 9999 },
-            { "id": "poland-zachodniopomorskie", "name": "Zachodniopomorskie", "fileName": "zachodniopomorskie-2025-12.map", "sizeMb": 9999 }
+            { "id": "poland-kujawsko-pomorskie", "name": "Kujawsko-Pomorskie", "fileName": "kujawsko-pomorskie-2025-12.map", "sizeMb": 77 },
+            { "id": "poland-lodzkie", "name": "Łódzkie", "fileName": "lodzkie-2025-12.map", "sizeMb": 98 },
+            { "id": "poland-lubelskie", "name": "Lubelskie", "fileName": "lubelskie-2025-12.map", "sizeMb": 99 },
+            { "id": "poland-lubuskie", "name": "Lubuskie", "fileName": "lubuskie-2025-12.map", "sizeMb": 45 },
+            { "id": "poland-malopolskie", "name": "Małopolskie", "fileName": "malopolskie-2025-12.map", "sizeMb": 134 },
+            { "id": "poland-mazowieckie", "name": "Mazowieckie", "fileName": "mazowieckie-2025-12.map", "sizeMb": 208 },
+            { "id": "poland-opolskie", "name": "Opolskie", "fileName": "opolskie-2025-12.map", "sizeMb": 37 },
+            { "id": "poland-podkarpackie", "name": "Podkarpackie", "fileName": "podkarpackie-2025-12.map", "sizeMb": 109 },
+            { "id": "poland-podlaskie", "name": "Podlaskie", "fileName": "podlaskie-2025-12.map", "sizeMb": 58 },
+            { "id": "poland-pomorskie", "name": "Pomorskie", "fileName": "pomorskie-2025-12.map", "sizeMb": 75 },
+            { "id": "poland-slaskie", "name": "Śląskie", "fileName": "slaskie-2025-12.map", "sizeMb": 124 },
+            { "id": "poland-swietokrzyskie", "name": "Świętokrzyskie", "fileName": "swietokrzyskie-2025-12.map", "sizeMb": 62 },
+            { "id": "poland-warminsko-mazurskie", "name": "Warmińsko-Mazurskie", "fileName": "warminsko-mazurskie-2025-12.map", "sizeMb": 58 },
+            { "id": "poland-wielkopolskie", "name": "Wielkopolskie", "fileName": "wielkopolskie-2025-12.map", "sizeMb": 115 },
+            { "id": "poland-zachodniopomorskie", "name": "Zachodniopomorskie", "fileName": "zachodniopomorskie-2025-12.map", "sizeMb": 66 }
           ]
         },
         {
@@ -164,7 +164,12 @@
             "hu": "USA"
           },
           "maps": [
-            { "id": "usa-hawaii", "name": "Hawaii", "fileName": "hawaii-2025-12.map", "sizeMb": 26 }
+            {
+              "id": "usa-hawaii",
+              "name": "Hawaii",
+              "fileName": "hawaii-2025-12.map",
+              "sizeMb": 26
+            }
           ]
         }
       ]
