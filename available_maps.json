@@ -5,13 +5,17 @@
       "releaseTag": "europe",
       "displayName": {
         "en": "Europe",
-        "hu": "Európa"
+        "hu": "Európa",
+        "es": "Europa",
+        "it": "Europa"
       },
       "countries": [
         {
           "name": {
             "en": "Austria",
-            "hu": "Ausztria"
+            "hu": "Ausztria",
+            "es": "Austria",
+            "it": "Austria"
           },
           "maps": [
             {
@@ -24,7 +28,9 @@
         {
           "name": {
             "en": "Croatia",
-            "hu": "Horvátország"
+            "hu": "Horvátország",
+            "es": "Croacia",
+            "it": "Croazia"
           },
           "maps": [
             {
@@ -37,7 +43,9 @@
         {
           "name": {
             "en": "Hungary",
-            "hu": "Magyarország"
+            "hu": "Magyarország",
+            "es": "Hungría",
+            "it": "Ungheria"
           },
           "maps": [
             {
@@ -50,7 +58,9 @@
         {
           "name": {
             "en": "Italy",
-            "hu": "Olaszország"
+            "hu": "Olaszország",
+            "es": "Italia",
+            "it": "Italia"
           },
           "maps": [
             { "id": "italy-centro", "name": "Centro", "fileName": "centro-2025-12.map", "sizeMb": 277 },
@@ -63,7 +73,9 @@
         {
           "name": {
             "en": "Poland",
-            "hu": "Lengyelország"
+            "hu": "Lengyelország",
+            "es": "Polonia",
+            "it": "Polonia"
           },
           "maps": [
             { "id": "poland-dolnoslaskie", "name": "Dolnośląskie", "fileName": "dolnoslaskie-2025-12.map", "sizeMb": 107 },
@@ -87,7 +99,9 @@
         {
           "name": {
             "en": "Romania",
-            "hu": "Románia"
+            "hu": "Románia",
+            "es": "Rumanía",
+            "it": "Romania"
           },
           "maps": [
             {
@@ -100,7 +114,9 @@
         {
           "name": {
             "en": "Slovakia",
-            "hu": "Szlovákia"
+            "hu": "Szlovákia",
+            "es": "Eslovaquia",
+            "it": "Slovacchia"
           },
           "maps": [
             {
@@ -113,7 +129,9 @@
         {
           "name": {
             "en": "Slovenia",
-            "hu": "Szlovénia"
+            "hu": "Szlovénia",
+            "es": "Eslovenia",
+            "it": "Slovenia"
           },
           "maps": [
             {
@@ -126,7 +144,9 @@
         {
           "name": {
             "en": "Spain",
-            "hu": "Spanyolország"
+            "hu": "Spanyolország",
+            "es": "España",
+            "it": "Spagna"
           },
           "maps": [
             { "id": "spain-andalucia", "name": "Andalucía", "fileName": "andalucia-2025-12.map", "sizeMb": 123 },
@@ -155,13 +175,17 @@
       "releaseTag": "north-america",
       "displayName": {
         "en": "North America",
-        "hu": "Észak-Amerika"
+        "hu": "Észak-Amerika",
+        "es": "América del Norte",
+        "it": "America del Nord"
       },
       "countries": [
         {
           "name": {
             "en": "USA",
-            "hu": "USA"
+            "hu": "USA",
+            "es": "USA",
+            "it": "USA"
           },
           "maps": [
             {
